@@ -50,8 +50,9 @@ This app will target existing customers of the sticker shop and new customers in
 
 ## User Stories
 
-1. As a scrapbooker, I am very picky with the design of the stickers and washitapes used for scrapbooking, and it is time consuming to visit different brick-and-mortar craft stores or sticker shops. I want to view a collection of sticker and washi tape products on an online platform, so that I can quickly find the products I want to buy.
+1. As a scrapbooker, I find it time-consuming to visit different brick-and-mortar craft stores or sticker shops to collect materials in good design. I want to view a collection of sticker and washi tape products on an online platform, so that I can quickly find the products I want to buy.
 2. As a scrapbooker, I consume large numbers of scrapbook stickers and washi tapes daily and I constantly need to buy new ones. I want to be able to place orders online, so that I can save the trouble of commuting to a brick-and-mortar sticker shop to buy what I need. 
+3. As a scrapbooker, I am very picky with the design of the stickers and washitapes used for scrapbooking. I want to be able to contact a sticker shop when there are no satisfying products, so that I can describe my preferred design pattern to the shop owner and hopefully they could find matching products for me.
 
 ## Wireframes
 
