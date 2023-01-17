@@ -22,7 +22,7 @@ This sticker shop application will have the following features:
 Above are the basic features of the sticker shop application. If we have enough time, (some of) the following features might be implemented:
 
 * Customers are able to register and login to view their order history
-* Customers are able to post comments on the products they purchased as feedback for shop owners and references for potential customers who are interested in the same product. 
+
 
 ### Target audience
 
@@ -50,9 +50,11 @@ This app will target existing customers of the sticker shop and new customers in
 
 ## User Stories
 
-1. As a scrapbooker, I find it time-consuming to visit different brick-and-mortar craft stores or sticker shops to collect materials in good design. I want to view a collection of sticker and washi tape products on an online platform, so that I can quickly find the products I want to buy.
-2. As a scrapbooker, I consume large numbers of scrapbook stickers and washi tapes daily and I constantly need to buy new ones. I want to be able to place orders online, so that I can save the trouble of commuting to a brick-and-mortar sticker shop to buy what I need. 
-3. As a scrapbooker, I am very picky with the design of the stickers and washitapes used for scrapbooking. I want to be able to contact a sticker shop when there are no satisfying products, so that I can describe my preferred design pattern to the shop owner and hopefully they could find matching products for me.
+1. As a scrapbooker, I find it time-consuming to visit different brick-and-mortar craft stores or sticker shops to collect materials in good design. I want to view a collection of sticker products on an online platform, so that I can easily find the products I want to buy.
+2. As a scrapbooker, I sometimes need stickers in specific theme or design pattern. I want to be able to search for products I want when browsing the products, so that I find what I need faster. 
+3. As a scrapbooker, I constantly need to buy new stickers. I want to be able to place orders online and have them deliver to my address, so that I can save the trouble of commuting to a brick-and-mortar sticker shop to buy what I need. 
+4. As a scrapbooker, I am very picky with the design of the stickers used for scrapbooking. I want to be able to contact a sticker shop when there are no satisfying products, so that I can describe my preferred design pattern to the shop owner and hopefully they could find matching products for me.
+5. As a scrapbooker who frequently shop online, I want to view my purchase history in my own account, so that I can track products I have bought before (*this is optional and will be realised in register and sign in functions if time permits*)
 
 ## Wireframes
 
