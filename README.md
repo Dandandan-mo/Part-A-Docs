@@ -18,8 +18,9 @@ This sticker shop application will have the following features:
 * Customers can click 'Add to Cart' button on the Detail pages and add products into Cart
 * Customers can view their cart before checking out and delete or modify numbers of each product selected
 * Customers can click the 'Checkout' button on the Cart page to navigate to a Checkout page where they could fill in their addresses for delivery and place orders
+* Customers can find contact info of shop owner and contact the shop if they have any questions.
 
-Above are the basic features of the sticker shop application. If we have enough time, (some of) the following features might be implemented:
+Above are the basic features of the sticker shop application. Time permitting, the following feature might be implemented:
 
 * Customers are able to register and login to view their order history
 
