@@ -44,10 +44,12 @@ This app will target existing customers of the sticker shop and new customers in
 ## Dataflow Diagram
 
 ---
+![Dataflow Diagram](/docs/Dataflow%20Diagram.png)
 
 ## Application Architecture Diagram
 
 ---
+![Application Architecture Diagram](docs/Application%20Architecture%20Diagram.png)
 
 ## User Stories
 
