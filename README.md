@@ -66,29 +66,87 @@ This app will target existing customers of the sticker shop and new customers in
 6. As a scrapbooker who tends to purchase stickers in bulk, I want to be able to easily change quantity of selected stickers in my cart, so that I don't have to keep adding the same sticker to cart to get the desired quantity
 
 ## Wireframes
+
+---
+
+Each page has three designs for mobile, tablet and desktop. Each page has a login/signup button, nav bar, banner image and contact us section. Customer login/signup, order histories will only be implemented if time permitted.
+
+---
+
 ### Home
+
+This is the landing page of our website. Customers could use nav bar to navigate between different pages. Customers could also use the search bar in the product section to search for particular products. Customers could click the picture of the product to navigate to the products page for details.
+
+Customer could click the login/signup button on the top to login to the website or register to the website. This function will be implemented if time permitted.
+
 ![Home](./docs/wireframes/wireframe-home.png)
+
 ### Product Detail
+
+This page displays the product detail, customers could click add to cart button to add products to the cart.
+
 ![Product Detail](./docs/wireframes/wireframe-product.png)
+
 ### Cart
+
+This page displays shopping cart, users could modify the quantity number by entering number in the quantity box. There is also a remove button which will remove the product from cart. After this, customers could click checkout button to proceed to the checkout page or click continue shopping to go back to the home page for more products.
 ![Cart](./docs/wireframes/wireframe-cart.png)
+
 ### Checkout
+
+This page is the checkout page, which collects customers personal information for delivery and displays order summary at the bottom. After customers enters their contact information and confirms their orders, they could click place order button to place the order. Or if they want to modify cart, they can click back to cart button to go back to the cart page.
+
 ![Checkout](./docs/wireframes/wireframe-address.png)
+
 ### Confirmation
+
+This page is the confirmation page after customers places their order. This page displays a message to notify customers that their order has been placed successfully.
+
 ![Confirmatio](./docs/wireframes/wireframe-confirmation.png)
+
 ### Register
+
+This is the customer registration page, customers could enter their email address and password, then click the register button to register.
 ![Register](./docs/wireframes/wireframe-register.png)
+
 ### Sign in
+
+This is the sign in page, customers can enter their email address and password and then click the sign in button to login. If they are new customer, they can click register button to navigate to the register page for registration.
+
 ![Sign in](./docs/wireframes/wireframe-sign_in.png)
+
 ### Order Histories
+
+This is the order histories page, customers could sign in and click order histories in the nav bar to navigate to this page. It will dislay all order histories. Customers can click order ID to navigate to the order details page for order details. If customers haven't sign in, an alert will be displayed and asked customers to sign in first.
+
 ![Order Histories](./docs/wireframes/wireframe-order_list.png)
+
 ### Order Details
+
+This page displays order details.
+
 ![Order Details](./docs/wireframes/wireframe-order-details.png)
+
 ## Project Management with Trello
-![16.01](./docs/trello-screenshots/16.01.png)
-![17.01-1](./docs/trello-screenshots/17.01.png)
-![17.02-2](./docs/trello-screenshots/17.01(2).png)
-![18.01-1](./docs/trello-screenshots/18.01.png)
-![18.01-2](./docs/trello-screenshots/18.01(2).png)
-![18.01-3](./docs/trello-screenshots/18.01(3).png)
-![19.01](./docs/trello-screenshots/19.01.png)
+
+---
+
+We decided to use Kanban project methodology, which is efficient, flexible and allowed us to continously deliver our products. We achieved this by using the Kanban board on Trello.
+
+### Day 1
+
+![2023-01-16](docs/trello-screenshots/2023-01-16%20Day%201%20Trello.png)
+
+### Day 2
+
+![2023-01-17-1](docs/trello-screenshots/2023-01-17%20Day%202%20Trello%20-1.png)
+![2023-01-17-2](docs/trello-screenshots/2023-01-17%20Day%202%20Trello%20-2.png)
+
+### Day 3
+
+![2023-01-18-1](docs/trello-screenshots/2023-01-18%20Day%203%20Trello%20-1.png)
+![2023-01-18-2](docs/trello-screenshots/2023-01-18%20Day%203%20Trello%20-2.png)
+
+### Day 4
+
+![2023-01-19](docs/trello-screenshots/2023-01-19%20Day%204%20Trello%20-1.png)
