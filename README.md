@@ -65,7 +65,7 @@ This app will target existing customers (mainly the scrapbookers) of the sticker
 
 6. As a scrapbooker who tends to purchase stickers in bulk, I want to be able to easily change quantity of selected stickers in my cart, so that I don't have to keep adding the same sticker to cart to get the desired quantity
 
-7. As a scrapbooker shopping online, I want to easily access the details (description, images, and price) of the sticker products I'm interested in, so that I can have a better understanding of the products and decide if I want to purchase them.
+7. As a scrapbooker shopping online, I want to easily access the details (description, more images, materials, etc) of the sticker products I'm interested in, so that I can have a better understanding of the products and decide if I want to purchase them.
 
 ## Wireframes
 
