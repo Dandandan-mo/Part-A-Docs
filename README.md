@@ -27,7 +27,7 @@ Above are the basic features of the sticker shop application. Time permitting, t
 
 ### Target audience
 
-This app will target existing customers of the sticker shop and new customers interested in this sticker brand. These people are targeted to view products and place order online, which saves their time.
+This app will target existing customers (mainly the scrapbookers) of the sticker shop and potential customers interested in this sticker brand. These people are targeted to view products and place orders online, which saves their time.
 
 ### Tech stack
 
