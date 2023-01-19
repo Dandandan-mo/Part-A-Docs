@@ -66,9 +66,29 @@ This app will target existing customers of the sticker shop and new customers in
 6. As a scrapbooker who tends to purchase stickers in bulk, I want to be able to easily change quantity of selected stickers in my cart, so that I don't have to keep adding the same sticker to cart to get the desired quantity
 
 ## Wireframes
-
----
-
+### Home
+![Home](./docs/wireframes/wireframe-home.png)
+### Product Detail
+![Product Detail](./docs/wireframes/wireframe-product.png)
+### Cart
+![Cart](./docs/wireframes/wireframe-cart.png)
+### Checkout
+![Checkout](./docs/wireframes/wireframe-address.png)
+### Confirmation
+![Confirmatio](./docs/wireframes/wireframe-confirmation.png)
+### Register
+![Register](./docs/wireframes/wireframe-register.png)
+### Sign in
+![Sign in](./docs/wireframes/wireframe-sign_in.png)
+### Order Histories
+![Order Histories](./docs/wireframes/wireframe-order_list.png)
+### Order Details
+![Order Details](./docs/wireframes/wireframe-order-details.png)
 ## Project Management with Trello
-
----
+![16.01](./docs/trello-screenshots/16.01.png)
+![17.01-1](./docs/trello-screenshots/17.01.png)
+![17.02-2](./docs/trello-screenshots/17.01(2).png)
+![18.01-1](./docs/trello-screenshots/18.01.png)
+![18.01-2](./docs/trello-screenshots/18.01(2).png)
+![18.01-3](./docs/trello-screenshots/18.01(3).png)
+![19.01](./docs/trello-screenshots/19.01.png)
