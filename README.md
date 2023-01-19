@@ -154,3 +154,7 @@ We decided to use Kanban project methodology, which is efficient, flexible and a
 ### Day 4
 
 ![2023-01-19](docs/trello-screenshots/2023-01-19%20Day%204%20Trello%20-1.png)
+
+### Day 5
+
+![2023-01-20](docs/trello-screenshots/2023-01-20%20Day%205%20Trello%20-1.png)
