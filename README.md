@@ -1,5 +1,7 @@
 # Dan Mo and Chengqun Niu T3A2 MERN-Project-Sticker Shop
 
+## GitHub Repo: [Part-A-Documentation](https://github.com/MERN-Project-Sticker-Shop/Part-A-Docs)
+
 ## Description
 
 ### Purpose
