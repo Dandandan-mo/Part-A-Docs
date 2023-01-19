@@ -55,15 +55,17 @@ This app will target existing customers (mainly the scrapbookers) of the sticker
 
 ### Initial user stories after kick-off meeting:
 
-1. As a scrapbooker, I find it time-consuming to visit different brick-and-mortar craft stores or sticker shops to collect stickers. I want to view a collection of sticker products on an online platform, so that I can easily find the products I want to buy.
+1. As a scrapbooker, I find it time-consuming to visit different brick-and-mortar craft stores or sticker shops to collect stickers. I want to browse a collection of sticker products on an online platform, so that I can easily find the products I am interested in.
 2. As a scrapbooker, I sometimes need stickers in specific theme or design pattern. I want to be able to search for products I want when browsing the products, so that I find what I need faster. 
 3. As a scrapbooker, I constantly need to buy new stickers. I want to be able to place orders online and have them delivered to my address, so that I can save the trouble of commuting to a brick-and-mortar sticker shop to buy what I need. 
 4. As a scrapbooker, I am very picky with the design of the stickers used for scrapbooking. I want to access contact info of a sticker shop, so that when there are no satisfying products, I can describe my preferred design pattern to the shop owner and hopefully they could find matching products for me.
 5. As a scrapbooker who frequently shop online, I want to view my purchase history in my own account, so that I can track products I have bought before (*this is optional and will be realised in register and sign in functions if time permits*)
 
-### In further discussion of the usability of the web application and the UI design, additional user story is added:
+### In further discussion of the usability of the web application and the UI design, additional user stories are added and extended:
 
 6. As a scrapbooker who tends to purchase stickers in bulk, I want to be able to easily change quantity of selected stickers in my cart, so that I don't have to keep adding the same sticker to cart to get the desired quantity
+
+7. As a scrapbooker shopping online, I want to easily access the details (description, images, and price) of the sticker products I'm interested in, so that I can have a better understanding of the products and decide if I want to purchase them.
 
 ## Wireframes
 
