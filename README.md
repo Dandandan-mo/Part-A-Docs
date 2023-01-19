@@ -69,44 +69,44 @@ This app will target existing customers of the sticker shop and new customers in
 
 ---
 
-Each page has three designs for mobile, tablet and desktop. Each page has a login/signup button, nav bar, banner image and contact us section. Customer login/signup, order histories will only be implemented if time permitted.
+Each page has three designs for mobile, tablet and desktop. Each page has a login/signup button, nav bar, banner image and contact us section. Nav bar include links to the social media. Features like customer login/signup, order histories will only be implemented if time permitted.
 
 ---
 
 ### Home
 
-This is the landing page of our website. Customers could use nav bar to navigate between different pages. Customers could also use the search bar in the product section to search for particular products. Customers could click the picture of the product to navigate to the products page for details.
-
-Customer could click the login/signup button on the top to login to the website or register to the website. This function will be implemented if time permitted.
+This is the landing page of our website. Customers can use nav bar to navigate between different pages. Customers can also use the search bar in the product section to search for particular products. Customers can click the picture of the product to navigate to the products page for details.
 
 ![Home](./docs/wireframes/wireframe-home.png)
 
 ### Product Detail
 
-This page displays the product detail, customers could click add to cart button to add products to the cart.
+This page displays the product detail, customers can click add to cart button to add products to the cart.
 
 ![Product Detail](./docs/wireframes/wireframe-product.png)
 
 ### Cart
 
-This page displays shopping cart, users could modify the quantity number by entering number in the quantity box. There is also a remove button which will remove the product from cart. After this, customers could click checkout button to proceed to the checkout page or click continue shopping to go back to the home page for more products.
+This page displays shopping cart, customers can modify the quantity of products by entering a number in the quantity box. There is also a remove button which removes the product from cart. If customers are happy with the cart items, they can click checkout button to proceed to the checkout page. If they want to add more products, they can click continue shopping to go back to the home page for more products.
+
 ![Cart](./docs/wireframes/wireframe-cart.png)
 
 ### Checkout
 
-This page is the checkout page, which collects customers personal information for delivery and displays order summary at the bottom. After customers enters their contact information and confirms their orders, they could click place order button to place the order. Or if they want to modify cart, they can click back to cart button to go back to the cart page.
+This page is the checkout page, which collects customers personal information for delivery and displays order summary at the bottom. After customers enters their contact information and confirms their orders, they can click place order button to place orders. Or if they want to modify cart, they can click back to cart button to go back to the cart page.
 
 ![Checkout](./docs/wireframes/wireframe-address.png)
 
 ### Confirmation
 
-This page is the confirmation page after customers places their order. This page displays a message to notify customers that their order has been placed successfully.
+This page is the confirmation page after customers place their orders. This page displays a message to notify customers that their order has been placed successfully.
 
 ![Confirmatio](./docs/wireframes/wireframe-confirmation.png)
 
 ### Register
 
 This is the customer registration page, customers could enter their email address and password, then click the register button to register.
+
 ![Register](./docs/wireframes/wireframe-register.png)
 
 ### Sign in
@@ -117,7 +117,7 @@ This is the sign in page, customers can enter their email address and password a
 
 ### Order Histories
 
-This is the order histories page, customers could sign in and click order histories in the nav bar to navigate to this page. It will dislay all order histories. Customers can click order ID to navigate to the order details page for order details. If customers haven't sign in, an alert will be displayed and asked customers to sign in first.
+This is the order histories page, customers can sign in and click order histories in the nav bar to navigate to this page. It will dislay all order histories for the logged in customer. Customers can click order ID to navigate to the order details page for order details. If customers haven't sign in, an alert will be displayed and asks customers to sign in first.
 
 ![Order Histories](./docs/wireframes/wireframe-order_list.png)
 
