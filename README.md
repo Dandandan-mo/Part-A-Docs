@@ -73,19 +73,19 @@ This app will target existing customers (mainly the scrapbookers) of the sticker
 
 ---
 
-Each page has three designs for mobile, tablet and desktop. Each page has a login/signup button, nav bar, banner image and contact us section. Nav bar include links to the social media. Features like customer login/signup, order histories will only be implemented if time permitted.
+Each page has three designs, corresponded to the mobile, tablet and desktop view. Each page has a signin button, a nav bar, a banner image and a contact us section. The contact us section includes links to the social media. Features like customer signin, order histories will only be implemented if time permitted.
 
 ---
 
 ### Home
 
-This is the landing page of our website. Customers can use nav bar to navigate between different pages. Customers can also use the search bar in the product section to search for particular products. Customers can click the picture of the product to navigate to the products page for details.
+This is the landing page of our website. Customers can use the nav bar to navigate between different pages. Customers can also use the search bar in the product section to search for particular products. Customers can click the picture of the product to navigate to the products page for details.
 
 ![Home](./docs/wireframes/wireframe-home.png)
 
 ### Product Detail
 
-This page displays the product detail, customers can click add to cart button to add products to the cart.
+This page displays the product detail, customers can click the add to cart button to add products to the cart.
 
 ![Product Detail](./docs/wireframes/wireframe-product_new.png)
 
