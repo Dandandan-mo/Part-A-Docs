@@ -46,7 +46,7 @@ This app will target existing customers (mainly the scrapbookers) of the sticker
 ## Dataflow Diagram
 
 ---
-![Dataflow Diagram](/docs/Dataflow%20Diagram.png)
+![Dataflow Diagram](docs/Dataflow%20Diagram-revised.png)
 
 ## Application Architecture Diagram
 
