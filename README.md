@@ -87,13 +87,13 @@ This is the landing page of our website. Customers can use nav bar to navigate b
 
 This page displays the product detail, customers can click add to cart button to add products to the cart.
 
-![Product Detail](./docs/wireframes/wireframe-product.png)
+![Product Detail](./docs/wireframes/wireframe-product_new.png)
 
 ### Cart
 
 This page displays shopping cart, customers can modify the quantity of products by entering a number in the quantity box. There is also a remove button which removes the product from cart. If customers are happy with the cart items, they can click checkout button to proceed to the checkout page. If they want to add more products, they can click continue shopping to go back to the home page for more products.
 
-![Cart](./docs/wireframes/wireframe-cart.png)
+![Cart](./docs/wireframes/wireframe-cart_new.png)
 
 ### Checkout
 
