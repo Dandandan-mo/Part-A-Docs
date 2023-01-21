@@ -51,7 +51,7 @@ This app will target existing customers (mainly the scrapbookers) of the sticker
 ## Application Architecture Diagram
 
 ---
-![Application Architecture Diagram](docs/Application%20Architecture%20Diagram.png)
+![Application Architecture Diagram](docs/Application%20Architecture%20Diagram-updated.png)
 
 ## User Stories
 
